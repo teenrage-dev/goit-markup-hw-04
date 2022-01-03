@@ -409,8 +409,7 @@ header{
 }
 
 .footer-item{
-    display: block;
-    align-items: baseline;
+    display: inline-block;
 }
 
 .footer .logo{

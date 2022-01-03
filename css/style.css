@@ -409,7 +409,7 @@ header{
 }
 
 .footer-item{
-    display: inline-block;
+    align-self: baseline;
 }
 
 .footer .logo{

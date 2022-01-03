@@ -144,14 +144,17 @@ header{
 }
 
 .contacts-item-container{
-    display: inline-block;
     fill: currentColor;
 }
 
-/* .contacts-item-container:hover,
-.contacts-item-container:focus{
-    color: var(--accent-text-color);
-} */
+.contacts-social-icon{
+    vertical-align: middle;
+}
+
+.contacts-social-icon:not(:last-child){
+    margin-right: 10px;
+}
+
 
 /* -----------------HERO---------------- */
 

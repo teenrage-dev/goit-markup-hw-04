@@ -202,6 +202,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover, 1600px;
     margin: 0 auto;
+    height: auto;
     text-align: center;
     padding-top: 200px;
     padding-bottom: 200px;
